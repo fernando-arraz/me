@@ -1,7 +1,6 @@
 Oi, me chamo Fernando Arraz
 
 
-### Meus trabalhos sobre Machine Learning (ML)
+# Meus trabalhos sobre Machine Learning (ML)
 
-- [PCA_vs_t-SNE](https://colab.research.google.com/drive/1vYL5MyIX5i2yjBnpfaiEAXws1UKV6OIu?usp=sharing)
-Comparar técnicas de redução de dimensionalidade para Clustering Analysis.
+- [PCA_vs_t-SNE]: The main goal is to compare a couple of techniques for dimensionality reduction for application in clustering analysis, specifically in conditions where we handle data with high dimensions (much more features than samples: $n >> p$) as gene expression for cancer recognition.
