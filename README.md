@@ -4,7 +4,7 @@ I'm a mathematician, who graduated from UFBA - University Federal da Bahia, Braz
 
 I have a master's degree in mathematics and computation, with a machine learning specialization from UMinho - University of Minho, Portugal (http://www.math.uminho.pt/Default.aspx?tabid=7&pageid=82&lang=pt-PT),.
 
-Nowadays, I'm ongoing in a Ph.D. program more known as MAP - PDMA (https://map-pdma.up.pt/program/), Portugal. 
+Nowadays, I'm ongoing in a Ph.D. program in applied mathematics more known as MAP - PDMA, Portugal (https://map-pdma.up.pt/program/). 
 
 
 The main goal is to compare a couple of techniques for dimensionality reduction for application in clustering analysis, specifically in conditions where we handle data with high dimensions (much more features than samples: $n >> p$) as gene expression for cancer recognition.
