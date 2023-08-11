@@ -1,6 +1,20 @@
-Oi, me chamo Fernando Arraz
+Hi, my name is Carlos Fernando Arraz
+
+I'm a mathematician, who graduated from UFBA - University Federal da Bahia, Brazil (https://ime.ufba.br/).
+
+I have a master's degree in mathematics and computation, with a machine learning specialization from UMinho - University of Minho, Portugal (http://www.math.uminho.pt/Default.aspx?tabid=7&pageid=82&lang=pt-PT),.
+
+Nowadays, I'm ongoing in a Ph.D. program more known as MAP - PDMA (https://map-pdma.up.pt/program/), Portugal. 
+
+
+The main goal is to compare a couple of techniques for dimensionality reduction for application in clustering analysis, specifically in conditions where we handle data with high dimensions (much more features than samples: $n >> p$) as gene expression for cancer recognition.
+
+
 
 
 # Meus trabalhos sobre Machine Learning (ML)
 
-- [PCA_vs_t-SNE]: The main goal is to compare a couple of techniques for dimensionality reduction for application in clustering analysis, specifically in conditions where we handle data with high dimensions (much more features than samples: $n >> p$) as gene expression for cancer recognition.
+## Master's Thesis researches
+
+
+- [PCA_vs_t-SNE]: The main goal is to compare a couple of techniques for dimensionality reduction for application in clustering analysis, specifically in conditions where we handle data with high dimensions (much more features than samples: $n >> p$) as gene expression for cancer recognition.  
